@@ -20,6 +20,8 @@ Python, Tensorflow, Keras
 
 ## Result
 - 160 tick 버티는 개체 수 학습
+ 
 ![강화학습 결과 JPG](https://user-images.githubusercontent.com/89285953/198496699-b37238ef-f55b-4fda-9b76-ec6c7542543d.jpg)
 - 로블록스 환경 시각화
+
 ![그림1](https://user-images.githubusercontent.com/89285953/198496835-60f4d1be-d954-4228-90c2-0fd7cd945e12.gif)
